@@ -23,5 +23,5 @@ This project analyzes the relationship between crime rates and median house pric
 ## 🔧 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/dhrubaseal/house_price_prediction_crime_rate.git
+cd house_price_prediction_crime_rate
